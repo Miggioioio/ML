@@ -14,4 +14,5 @@ public class ICE4 {
         System.out.println("Hello World!");
     }
     private int myProperty;
+    /*new change*/
 }
